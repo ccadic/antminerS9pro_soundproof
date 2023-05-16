@@ -6,5 +6,5 @@ Soundproof foam: https://www.amazon.fr/gp/product/B07WPCZ7P1/ref=ppx_yo_dt_b_asi
 
 @sulfuroid
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ccadic/antminerS9pro_soundproof/blob/main/render1.JPG)
 
